@@ -45,4 +45,4 @@ async def reply_shortens(bot, update):
             text="No Public Stories for past 24Hrs\n\n❌ OR INVALID USERNAME", quote=True
         )
 
-    await update.reply_text(text="Done ✨ @codingultra", quote=True)
+    await update.reply_text(text="Done ✨ @GAURAV_BOTS", quote=True)
